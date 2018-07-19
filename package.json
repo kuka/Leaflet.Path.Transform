@@ -33,7 +33,7 @@
   "devDependencies": {
     "eslint": "^4.1.1",
     "http-server": "^0.10.0",
-    "leaflet": "^1.1.0",
+    "leaflet": "git+https://github.com/kuka/leaflet.git",
     "tape": "^4.7.0",
     "uglify-js": "^3.0.21",
     "watchify": "^3.9.0"
